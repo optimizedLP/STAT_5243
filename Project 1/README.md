@@ -1,6 +1,6 @@
 ## Project 1 : Regenerative Organizing Cell in the Frog tail
 
-
+[Project Report](https://github.com/optimizedLP/STAT_5243/blob/main/Project%201/report/STAT5243_Project_1.pdf)
 ### Overview
 This repository contains the analysis and findings from Project 1 of STAT5243, which investigates the Regenerative Organizing Cell (ROC) in Xenopus laevis tadpole tails through single-cell RNA sequencing (scRNA-seq) data. The study identifies distinct cell populations and highlights key genes associated with tissue regeneration.
 Abstract
