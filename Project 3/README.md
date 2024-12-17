@@ -35,8 +35,8 @@ EDA was performed to understand the distribution of data, including segment dist
 - There was an imbalance in the number of organ pixels vs. background pixels in the dataset.
 
 ### Visualizations
-![Distribution of Segments Across Cases](./images/num_of_segments.png)
-![Distribution of Mask Types](./images/mask_types.png)
+![Distribution of Segments Across Cases](https://github.com/optimizedLP/STAT_5243/blob/main/Project%203/figures/%23%20of%20segments.png)
+![Distribution of Mask Types](https://github.com/optimizedLP/STAT_5243/blob/main/Project%203/figures/mask%20types.png)
 
 ## Model Development and Evaluation
 
@@ -70,10 +70,9 @@ The models were evaluated using the following metrics:
 The proposed deep learning model (U-Net) significantly outperformed the baseline model, achieving a Dice coefficient of 0.87 and a lower 3D Hausdorff distance. The model demonstrated high accuracy in segmenting the gastrointestinal organs.
 
 ### Model Output Visualizations
-![Segmentation Model Output 1](./images/segmentation.png)
-![Segmentation Model Output 2](./images/seg_2.png)
-![U-Net Output](./images/unet_1.png)
-![Final Segmentation Output](./images/final_segmentation.png)
+![Segmentation Model Output](https://github.com/optimizedLP/STAT_5243/blob/main/Project%203/figures/seg%202.png)
+![U-Net Output](https://github.com/optimizedLP/STAT_5243/blob/main/Project%203/figures/unet%201.png)
+![Final Segmentation Output](https://github.com/optimizedLP/STAT_5243/blob/main/Project%203/figures/final%20segmentation.png)
 
 ## Conclusion and Future Work
 
@@ -86,6 +85,3 @@ The proposed deep learning model (U-Net) significantly outperformed the baseline
 - Implement model explainability techniques like SHAP or LIME.
 - Integrate additional clinical metadata (e.g., tumor location) to improve model performance.
 - Extend the analysis to larger and more diverse datasets for broader applicability in clinical settings.
-
-## Code and Models
-The code and models for this project are available on GitHub: [GitHub Repository](https://github.com/yourusername/yourrepository).
