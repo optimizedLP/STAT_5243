@@ -4,4 +4,4 @@
 
 ### 2. [Project 2: Cell Segmentation Classifier](https://github.com/optimizedLP/STAT_5243/tree/main/Project%202)
 
-### 3. [Project 2: UNet Image Segmentation](https://github.com/optimizedLP/STAT_5243/tree/main/Project%203)
+### 3. [Project 3: UNet Image Segmentation](https://github.com/optimizedLP/STAT_5243/tree/main/Project%203)
