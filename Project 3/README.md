@@ -1,5 +1,6 @@
 # Project 3: U-Net Medical Imaging Segmentation
 
+[Project Report](https://github.com/optimizedLP/STAT_5243/blob/main/Project%203/report/STAT5243-Project-3-Report.pdf)
 ## Overview
 This project focuses on developing a deep learning model for automating the segmentation of gastrointestinal organs in MRI scans. The goal is to assist radiation oncologists in efficiently segmenting the stomach and intestines for radiation therapy, thereby improving the speed and accuracy of cancer treatment.
 
